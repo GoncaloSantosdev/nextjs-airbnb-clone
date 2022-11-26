@@ -52,7 +52,7 @@ export default function Home({ exploreData, cardsData }) {
         />
       </main>
 
-      {/* Footer */}
+      {/* FOOTER */}
       <Footer />
     </div>
   )
